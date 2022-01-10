@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="CommonModule.Шк_MultilineВызовСервера" id="995c6480-0d89-4a52-aa37-04a159974267" configVersion="3b6da0b4a0b1194cb5f6e3c1443f32f000000000"/>
+		<Metadata name="CommonModule.Шк_MultilineВызовСервера.Module" id="995c6480-0d89-4a52-aa37-04a159974267.0" configVersion="c1c4e3a5c41c474c8f9cb19beb6c317200000000"/>
+		<Metadata name="CommonModule.Шк_MultilineКлиент" id="2b9b3653-4af4-4f34-a143-6f113cef8d60" configVersion="98e352feb5b9a144bd716482c77bbc1300000000"/>
+		<Metadata name="CommonModule.Шк_MultilineКлиент.Module" id="2b9b3653-4af4-4f34-a143-6f113cef8d60.0" configVersion="a78f1daa08adc04695337e2188070bf900000000"/>
+		<Metadata name="CommonModule.Шк_MultilineКлиентПовтИсп" id="6a36b7b6-f09d-4f78-a6b5-e0292f817bdb" configVersion="dd4971eb4e4ed04d9dbadd3151d6b4e700000000"/>
+		<Metadata name="CommonModule.Шк_MultilineКлиентПовтИсп.Module" id="6a36b7b6-f09d-4f78-a6b5-e0292f817bdb.0" configVersion="98b95c57c15dd5449a61ff994c02d82200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="c306ca45-1046-4625-bb80-f9f254ea0474" configVersion="28b69e8cf9dd894d894dee5182220b9d00000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="28e9ee05-328f-4e6d-9844-9b8f6c45c4b3.8" configVersion="5e7caa353f34a3429be2fee402a728f600000000"/>
+		<Metadata name="DataProcessor.Шк_СтрокиТекстовогоБлокаЭтикеткиИзСтроки" id="2b469b78-3ba1-4273-b28c-5be8dbcd6cac" configVersion="aa73ca3348b7c34da54e33f7360b542300000000"/>
+		<Metadata name="DataProcessor.Шк_СтрокиТекстовогоБлокаЭтикеткиИзСтроки.Form.Форма" id="105ce765-0d63-497d-b8b6-d87191480903" configVersion="29ec3d81d74e4c48be47fc73d141bec000000000"/>
+		<Metadata name="DataProcessor.Шк_СтрокиТекстовогоБлокаЭтикеткиИзСтроки.Form.Форма.Form" id="105ce765-0d63-497d-b8b6-d87191480903.0" configVersion="2d3be7be135a3a49b4c7e57c785ad47700000000"/>
+		<Metadata name="Language.Русский" id="4e358b8e-25a9-4cfe-9b4e-9edd2b944245" configVersion="471b7b13a1c7564ba9c2eb160074259800000000"/>
+		<Metadata name="Subsystem.Шк_Barcode1D" id="6154b8d5-4f61-4ce3-aa28-190f0fa6579c" configVersion="a397193e0f399a41a26d6fb3f843913200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
